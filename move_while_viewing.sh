@@ -1,0 +1,1 @@
+feh *.jpg --action1 "mv %f ./helmet/" --action2 "mv %f ./not_helmet/" --action3 "mv %f ./not_head/"
